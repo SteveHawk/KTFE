@@ -1,6 +1,6 @@
 # KTFE
 
-Kill The Fucking Explorer (explorer.exe), then bring it back.
+A utility to quickly restart the windows file explorer.
 
 ## Usage
 
